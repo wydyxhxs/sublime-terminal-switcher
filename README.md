@@ -29,15 +29,6 @@
 右键点击编辑器，选择对应的终端选项即可。
 
 
-
-## 目录结构
-
-```
-TerminalSwitcher/
-├── terminal_switcher.py           # 主插件代码
-└── Context.sublime-menu           # 右键菜单配置
-```
-
 ## 注意
 
 需要自行安装WSL 子系统，相应的命令才会生效。
