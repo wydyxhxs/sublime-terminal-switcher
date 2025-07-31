@@ -1,0 +1,15 @@
+[
+    { "caption": "-" },
+    {
+        "caption": "在 PowerShell 中打开",
+        "command": "open_powershell"
+    },
+    {
+        "caption": "在 Kali Linux 中打开",
+        "command": "open_kali_linux"
+    },
+    {
+        "caption": "在 Ubuntu 中打开",
+        "command": "open_ubuntu"
+    }
+]
