@@ -16,7 +16,3 @@
 ## 使用方法
 右键点击编辑器，选择对应的终端选项即可。
 
-## 目录结构
-TerminalSwitcher/
-├── terminal_switcher.py           # 主插件代码
-├── Context.sublime-menu           # 右键菜单配置
